@@ -1,0 +1,53 @@
+.center {
+    text-align: center;
+}
+
+.flex {
+    display: flex;
+    justify-content: center;
+    flex-flow: row wrap;
+    
+   
+}
+
+.firstbar {
+    
+    background-color:rgba(214, 214, 214, 0.414);
+    margin: -1px 4.9% 2.5px 4.9%;
+}
+
+
+
+#special {
+    background-color: rgb(159, 237, 227);
+    margin: 0 1px;
+    width: 33%;
+    padding: 6px 0px 4px 0px;
+}
+
+#link {
+    background-color: rgb(143, 217, 207);
+    margin: 0 1px;
+    width: 20%;
+    font-size: small;
+    padding: 6px 0px 4px 0px;
+    
+}
+
+#subscribe {
+    margin-left: 2%;
+    margin-right: 2%;
+}
+#getgoogle {
+    background-color: rgb(109, 176, 167);
+    margin: 0 1px;
+    width: 37%;
+    font-size:small;
+   
+
+}
+
+.footer {
+    font-size: small;
+    margin-top: 1%;
+}
